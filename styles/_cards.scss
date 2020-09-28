@@ -1,0 +1,137 @@
+.cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 40px;
+}
+
+.cardProduct1{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 250px;
+    height: 220px;
+    background: #45213e;
+    border-radius: 8px;
+
+    transition: 0.8s;
+    cursor: pointer;
+
+    p{
+        position: absolute;
+        top: 80px;
+        margin: 0;
+        color: #fff;
+        font-size: 30px;
+        font-weight: 500;
+    }
+
+    img{
+        margin: 0 0 0 90px;
+        width: auto;
+        max-height: 200px;
+    }
+
+}
+
+.cardProduct2{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 250px;
+    height: 220px;
+    background: #db658c;
+    border-radius: 8px;
+    
+    transition: 0.8s;
+    cursor: pointer;
+
+    p{
+        position: absolute;
+        top: 80px;
+        margin: 0;
+        color: #fff;
+        font-size: 30px;
+        font-weight: 500;
+    }
+
+    img{
+        margin: 0 0 0 90px;
+        width: auto;
+        max-height: 200px;
+    }
+}
+
+.cardProduct3{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 250px;
+    height: 220px;
+    background: #912448;
+    border-radius: 8px;
+    
+    transition: 0.8s;
+    cursor: pointer;
+
+    p{
+        position: absolute;
+        top: 80px;
+        margin: 0;
+        color: #fff;
+        font-size: 30px;
+        font-weight: 500;
+    }
+
+    img{
+        margin: 0 0 0 90px;
+        width: auto;
+        max-height: 200px;
+    }
+}
+
+.cardProduct4{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 250px;
+    height: 220px;
+    background: #45213e;
+    border-radius: 8px;
+    
+    transition: 0.8s;
+    cursor: pointer;
+
+    p{
+        position: absolute;
+        top: 80px;
+        margin: 0;
+        color: #fff;
+        font-size: 30px;
+        font-weight: 500;
+    }
+
+    img{
+        margin: 0 0 0 90px;
+        width: auto;
+        max-height: 200px;
+    }
+}
+
+.cardProduct1:hover, .cardProduct2:hover, .cardProduct3:hover, .cardProduct4:hover{
+    opacity: 90%;
+    filter: drop-shadow(10px 10px 4px #f57eeb);
+}
+
+.cardProduct1, .cardProduct2, .cardProduct3, .cardProduct4{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}

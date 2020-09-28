@@ -1,0 +1,15 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+@import "./header";
+@import "./menu";
+@import "./safebuy";
+@import "./slide";
+@import "./cards";
+@import "./lingerie";
+@import "./formulario";
+@import "./rodape"

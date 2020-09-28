@@ -1,0 +1,86 @@
+//colors
+$navpuple: #45213e;
+//
+
+.navbar{
+    display: flex;
+    max-width: 100vw;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    background: $navpuple;
+    img{
+        width: auto;
+        max-height: 80px;
+
+        &:hover{
+            opacity: 70%;
+            cursor: pointer;
+        }
+    }
+
+}
+
+.searchContainer{
+   height: 40px;
+   padding: 5px 5px 5px 15px;
+
+   margin: 30px 50px;
+   background: white;
+   border-radius: 40px;
+}
+
+.searchBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 40px;
+    height: 40px;
+    float: right;
+
+    color:$navpuple;
+    border-radius: 50%;
+    background: none;
+    text-decoration: none;
+
+    &:hover{
+        opacity: 70%;
+        cursor: pointer;
+    }
+}
+
+.searchTxt{
+    width: 340px;
+    float: left;
+
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+
+    color: #767676;
+    font-size: 12px;
+    transition: 0.5px;
+    line-height: 40px;
+}
+
+.shopBtn{
+    position: absolute;
+    right: 100px;
+
+    color: white;
+    text-decoration: none;
+
+    &:hover{
+        opacity: 70%;
+    }
+}
+
+.containerNav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
