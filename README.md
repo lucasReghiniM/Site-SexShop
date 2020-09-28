@@ -14,7 +14,7 @@ HTML e SASS
 * **Lucas Reghini Magalhães** - *Dev Frontend e Web designer* 
 
 ## Fotos
-![Pagina inicial - Slide](https://github.com/lucasReghiniM/Ecoleta-APP/blob/master/Tela%201%20-%20Home.PNG)
-![Pagina inicial - Menu Lateral](https://github.com/lucasReghiniM/Ecoleta-APP/blob/master/Tela%202%20-%20Mapa.PNG)
+![Pagina inicial - Slide](https://github.com/lucasReghiniM/Site-SexShop/blob/master/Pagina%20inicial%20%20-%20Carrosel.PNG)
+![Pagina inicial - Menu Lateral](https://github.com/lucasReghiniM/Site-SexShop/blob/master/Menu%20lateral.PNG)
 
 
